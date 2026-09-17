@@ -1,0 +1,18 @@
+# Maya Junk
+*__crash.ma
+*__crash.mb
+*.swatch
+mayaJournal*
+
+# Blender Junk
+*.blend1
+*.blend2
+*.crash.blend
+
+# Substance Painter Junk
+*.spp~
+*.autosave
+
+# Operating System Junk
+.DS_Store
+Thumbs.db

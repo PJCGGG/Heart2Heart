@@ -3,6 +3,7 @@
 *__crash.mb
 *.swatch
 mayaJournal*
+*.tx
 
 # Blender Junk
 *.blend1
@@ -16,4 +17,4 @@ mayaJournal*
 # Operating System Junk
 .DS_Store
 Thumbs.db
-*.tx
+

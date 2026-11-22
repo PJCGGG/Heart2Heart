@@ -16,3 +16,4 @@ mayaJournal*
 # Operating System Junk
 .DS_Store
 Thumbs.db
+*.tx
